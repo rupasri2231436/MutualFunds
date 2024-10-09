@@ -1,0 +1,1257 @@
+.desktop-3-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-midnightblue-100);
+  width: 1440px;
+  height: 382px;
+}
+.learn-to-invest2 {
+  position: absolute;
+  top: 156px;
+  left: 476px;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  width: 244px;
+  height: 4px;
+}
+.desktop-3-inner,
+.desktop-3-item {
+  position: absolute;
+  top: 140.5px;
+  left: 635.5px;
+  border-right: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1px;
+  height: 101px;
+}
+.desktop-3-inner {
+  top: 139.5px;
+  left: 851.5px;
+}
+.desktop-3-child1,
+.desktop-3-child2,
+.desktop-3-child3 {
+  position: absolute;
+  top: 211px;
+  left: 584px;
+  width: 27px;
+  height: 24px;
+  object-fit: contain;
+}
+.desktop-3-child2,
+.desktop-3-child3 {
+  top: 212px;
+  left: 1025px;
+}
+.desktop-3-child3 {
+  top: 211px;
+  left: 816px;
+}
+.reap-the-rewards2 {
+  position: absolute;
+  top: 266px;
+  left: 59px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 320px;
+  height: 52px;
+}
+.desktop-3-child4 {
+  position: absolute;
+  top: 239.5px;
+  left: 58.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 282px;
+  height: 1px;
+}
+.funds2 {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.mutual-funds3 {
+  position: absolute;
+  top: 73px;
+  left: 74px;
+  font-size: var(--font-size-45xl);
+  display: inline-block;
+  width: 331px;
+  height: 97px;
+}
+.browse-invest-container2,
+.investor-services2 {
+  position: absolute;
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+}
+.browse-invest-container2 {
+  top: 160px;
+  left: 663px;
+  width: 273px;
+  height: 49.6px;
+  transform: rotate(-0.6deg);
+  transform-origin: 0 0;
+}
+.investor-services2 {
+  top: 161px;
+  left: 868px;
+  width: 313px;
+  height: 39px;
+}
+.desktop-3-child6 {
+  position: absolute;
+  top: 164.2px;
+  left: 1077px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 351.3px;
+  height: 65.7px;
+  transform: rotate(-0.2deg);
+  transform-origin: 0 0;
+}
+.image-icon2 {
+  position: absolute;
+  top: 180px;
+  left: 1366px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.search2 {
+  position: absolute;
+  top: 162px;
+  left: 1092px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-inria-sans);
+  color: var(--color-black);
+  display: inline-block;
+  width: 188px;
+  height: 38px;
+}
+.desktop-3-child7 {
+  position: absolute;
+  top: 266px;
+  left: 1181px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-deepskyblue-100);
+  width: 182px;
+  height: 73px;
+}
+.login3 {
+  position: absolute;
+  top: 277px;
+  left: 1215px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-inika);
+  display: inline-block;
+  width: 301px;
+  height: 105px;
+}
+.frame-child37 {
+  position: absolute;
+  top: -62px;
+  left: -8px;
+  background-color: var(--color-midnightblue-100);
+  width: 3341px;
+  height: 457px;
+}
+.mutual-funds4 {
+  position: absolute;
+  top: 85px;
+  left: 56px;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 336px;
+  height: 100px;
+}
+.frame-child39 {
+  position: absolute;
+  top: 244.5px;
+  left: 58.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 286px;
+  height: 1px;
+}
+.reap-the-rewards3 {
+  top: 287px;
+  left: 61px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 325px;
+  height: 54px;
+}
+.learn-to-invest3,
+.plan-investments1,
+.reap-the-rewards3 {
+  position: absolute;
+  font-family: var(--font-inter);
+}
+.learn-to-invest3 {
+  top: 143px;
+  left: 459px;
+  display: inline-block;
+  width: 331px;
+  height: 35px;
+}
+.plan-investments1 {
+  top: 148px;
+  left: 731px;
+}
+.browse-invest-container3,
+.investor-services3 {
+  position: absolute;
+  font-family: var(--font-inter);
+  display: inline-block;
+}
+.browse-invest-container3 {
+  top: 146px;
+  left: 1175px;
+  width: 273px;
+  height: 49.6px;
+  transform: rotate(-0.6deg);
+  transform-origin: 0 0;
+}
+.investor-services3 {
+  top: 135px;
+  left: 1551px;
+  width: 313px;
+  height: 39px;
+}
+.frame-child41,
+.frame-child42,
+.frame-child43,
+.frame-child44 {
+  position: absolute;
+  top: 240px;
+  left: 653px;
+  width: 35px;
+  height: 28px;
+  object-fit: contain;
+}
+.frame-child42,
+.frame-child43,
+.frame-child44 {
+  top: 253px;
+  left: 1062px;
+  height: 41px;
+}
+.frame-child43,
+.frame-child44 {
+  top: 240px;
+  left: 1413px;
+  height: 28px;
+}
+.frame-child44 {
+  top: 232px;
+  left: 1798px;
+}
+.frame-child45 {
+  position: absolute;
+  top: 186.2px;
+  left: 2017px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 351.3px;
+  height: 65.7px;
+  transform: rotate(-0.2deg);
+  transform-origin: 0 0;
+}
+.search3 {
+  position: absolute;
+  top: 185px;
+  left: 1929px;
+  font-family: var(--font-inria-sans);
+  color: var(--color-black);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 305px;
+  height: 42px;
+}
+.image-icon3 {
+  position: absolute;
+  top: 196px;
+  left: 2315px;
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.frame-child46 {
+  position: absolute;
+  top: 5.5px;
+  left: 2531.5px;
+  border-right: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1px;
+  height: 328px;
+}
+.frame-child47 {
+  position: absolute;
+  top: 142px;
+  left: 2643px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-deepskyblue-100);
+  width: 371px;
+  height: 140px;
+}
+.login4 {
+  position: absolute;
+  top: 174px;
+  left: 2728px;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-inika);
+  display: inline-block;
+  width: 292px;
+  height: 97px;
+}
+.frame-child48 {
+  position: absolute;
+  top: 395px;
+  left: 201px;
+  background-color: var(--color-indigo);
+  width: 1436px;
+  height: 867px;
+}
+.frame-child49,
+.frame-child50 {
+  position: absolute;
+  top: 245.5px;
+  left: 2643px;
+  width: 0;
+  height: 845px;
+}
+.frame-child50 {
+  top: 658px;
+  left: 271px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 1340px;
+  height: 328px;
+}
+.passive-solutions1 {
+  position: absolute;
+  top: 750.8px;
+  left: 328px;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-jersey-20);
+  color: var(--color-deepskyblue-300);
+  display: inline-block;
+  width: 520.6px;
+  height: 75.1px;
+  transform: rotate(-0.4deg);
+  transform-origin: 0 0;
+}
+.frame-child51 {
+  position: absolute;
+  top: 824px;
+  left: 390px;
+  width: 459px;
+  height: 4px;
+  object-fit: contain;
+}
+.index-funds1 {
+  position: absolute;
+  top: 832px;
+  left: 425px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-abel);
+  color: var(--color-black);
+  display: inline-block;
+  width: 483px;
+  height: 3px;
+}
+.frame-child52 {
+  position: absolute;
+  top: 741.5px;
+  left: 918.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 126px;
+}
+.mutual-funds5 {
+  position: absolute;
+  top: 720px;
+  left: 950px;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-inknut-antiqua);
+  color: var(--color-black);
+  display: inline-block;
+  width: 657px;
+  height: 116px;
+}
+.frame-child53 {
+  position: absolute;
+  top: 1036px;
+  left: 454px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-cornflowerblue);
+  width: 509px;
+  height: 112px;
+}
+.know-more1 {
+  position: absolute;
+  top: 1059px;
+  left: 571px;
+  font-family: var(--font-inika);
+  display: inline-block;
+  width: 456px;
+  height: 66px;
+}
+.frame-child54 {
+  position: absolute;
+  top: 395px;
+  left: 1637px;
+  width: 1423px;
+  height: 867px;
+  object-fit: cover;
+}
+.frame-child55 {
+  position: absolute;
+  top: 687px;
+  left: 1730px;
+  background-color: var(--color-midnightblue-200);
+  width: 1284px;
+  height: 109px;
+}
+.passive-investments-by1 {
+  position: absolute;
+  top: 721px;
+  left: 1787px;
+  font-family: var(--font-inter);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 1087px;
+  height: 89px;
+}
+.frame-child56 {
+  position: absolute;
+  top: 1419.5px;
+  left: 206.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 2773px;
+  height: 1px;
+}
+.investment-ideas1 {
+  top: 1511px;
+  left: 179px;
+  width: 334px;
+  height: 57px;
+}
+.check-nav1,
+.investment-ideas1,
+.register-mandate1,
+.starter-kit1,
+.tools-caluclators1 {
+  position: absolute;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-abril-fatface);
+  color: var(--color-black);
+  display: inline-block;
+}
+.tools-caluclators1 {
+  top: 1495.3px;
+  left: 666px;
+  width: 412.6px;
+  height: 45px;
+  transform: rotate(-0.6deg);
+  transform-origin: 0 0;
+}
+.check-nav1,
+.register-mandate1,
+.starter-kit1 {
+  top: 1511px;
+  left: 1278px;
+  width: 452px;
+  height: 49px;
+}
+.check-nav1,
+.starter-kit1 {
+  top: 1525px;
+  left: 1960px;
+  width: 254px;
+  height: 69px;
+}
+.starter-kit1 {
+  top: 1500px;
+  left: 2532px;
+  width: 303px;
+  height: 49px;
+}
+.frame-child57 {
+  position: absolute;
+  top: 1466.5px;
+  left: 588.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 465px;
+}
+.frame-child58 {
+  position: absolute;
+  top: 1467px;
+  left: 1864px;
+  width: 3px;
+  height: 451px;
+  object-fit: contain;
+}
+.frame-child59 {
+  position: absolute;
+  top: 1472.5px;
+  left: 2447.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 446px;
+}
+.for-hassle-free1,
+.get-the-latest1,
+.selection-of-plan-container1,
+.wide-range-o1 {
+  position: absolute;
+  top: 1749px;
+  left: 163px;
+  font-family: var(--font-abel);
+  color: var(--color-black);
+  display: inline-block;
+  width: 455px;
+  height: 98px;
+}
+.for-hassle-free1,
+.get-the-latest1,
+.wide-range-o1 {
+  top: 1713px;
+  left: 671px;
+  width: 408px;
+  height: 61px;
+}
+.for-hassle-free1,
+.get-the-latest1 {
+  top: 1739px;
+  left: 1278px;
+  width: 503px;
+  height: 82px;
+}
+.get-the-latest1 {
+  top: 1744px;
+  left: 1932px;
+  font-size: var(--font-size-21xl);
+  width: 406px;
+  height: 96px;
+}
+.frame-child60 {
+  position: absolute;
+  top: 1466.5px;
+  left: 1184.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 452px;
+}
+.everything-you-need1 {
+  position: absolute;
+  top: 1723px;
+  left: 2513px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-abel);
+  color: var(--color-black);
+  display: inline-block;
+  width: 466px;
+}
+.frame-child61 {
+  position: absolute;
+  top: 2257px;
+  left: 31px;
+  background-color: var(--color-deepskyblue-100);
+  width: 3099px;
+  height: 1482px;
+}
+.explore-more1 {
+  position: absolute;
+  top: 2301px;
+  left: 257px;
+  font-size: var(--font-size-109xl);
+  font-family: var(--font-abril-fatface);
+  display: inline-block;
+  width: 1516px;
+  height: 110px;
+}
+.liquidity-parking2,
+.park-your-surprise1,
+.wealth-creation1 {
+  position: absolute;
+  top: 2487px;
+  left: 146px;
+  font-size: var(--font-size-71xl);
+  display: inline-block;
+  width: 955px;
+  height: 152px;
+}
+.liquidity-parking2,
+.park-your-surprise1 {
+  top: 2928px;
+  left: 189px;
+  height: 148px;
+}
+.park-your-surprise1 {
+  top: 3105px;
+  left: 281px;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-abhaya-libre);
+  width: 587px;
+  height: 152px;
+}
+.long-term-funds1 {
+  position: absolute;
+  top: 2682px;
+  left: 301px;
+  display: inline-block;
+  width: 618px;
+  height: 102px;
+}
+.balanced-funds1,
+.retirement-planning1 {
+  position: absolute;
+  top: 2522px;
+  left: 1107px;
+  font-size: var(--font-size-71xl);
+  display: inline-block;
+  width: 845px;
+  height: 127px;
+}
+.balanced-funds1 {
+  top: 2928px;
+  left: 1229px;
+  width: 853px;
+  height: 75px;
+}
+.tax-and-funds1 {
+  top: 2529px;
+  left: 2232px;
+  font-size: var(--font-size-71xl);
+  width: 642px;
+  height: 132px;
+}
+.for-income-post1,
+.plan-for-your1,
+.tax-and-funds1 {
+  position: absolute;
+  display: inline-block;
+}
+.plan-for-your1 {
+  top: 2928px;
+  left: 2188px;
+  font-size: var(--font-size-71xl);
+  width: 898px;
+  height: 132px;
+}
+.for-income-post1 {
+  top: 2746px;
+  left: 1295px;
+  width: 808px;
+  height: 76px;
+}
+.invest-for-your2,
+.manage-market-volatility1,
+.save-taxes-under1 {
+  position: absolute;
+  top: 3111px;
+  left: 1295px;
+  display: inline-block;
+  width: 732px;
+  height: 298px;
+}
+.invest-for-your2,
+.save-taxes-under1 {
+  top: 2730px;
+  left: 2265px;
+  width: 755px;
+  height: 181px;
+}
+.invest-for-your2 {
+  top: 3094px;
+  left: 2331px;
+  width: 622px;
+  height: 166px;
+}
+.frame-child62,
+.frame-child63,
+.frame-child64 {
+  position: absolute;
+  top: 3459px;
+  left: 75px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-cornflowerblue);
+  width: 897px;
+  height: 527px;
+}
+.frame-child63,
+.frame-child64 {
+  top: 3470px;
+  left: 1068px;
+  width: 995px;
+  height: 516px;
+}
+.frame-child64 {
+  top: 3478px;
+  left: 2203px;
+  width: 868px;
+  height: 508px;
+}
+.equity-funds1,
+.hybrid-funds1 {
+  position: absolute;
+  top: 3532px;
+  left: 281px;
+  display: inline-block;
+  width: 685px;
+  height: 95px;
+}
+.hybrid-funds1 {
+  top: 3546px;
+  left: 1339px;
+  width: 549px;
+  height: 99px;
+}
+.debt-funds1,
+.invest-for-your-container1 {
+  position: absolute;
+  top: 3555px;
+  left: 2447px;
+  display: inline-block;
+  width: 461px;
+  height: 90px;
+}
+.invest-for-your-container1 {
+  top: 3728px;
+  left: 243px;
+  width: 574px;
+  height: 200px;
+}
+.invest-for-mid-container1,
+.invest-for-short1,
+.quick-guides1 {
+  position: absolute;
+  top: 3728px;
+  left: 1335px;
+  display: inline-block;
+  width: 604px;
+  height: 102px;
+}
+.invest-for-short1,
+.quick-guides1 {
+  top: 3732px;
+  left: 2410px;
+  width: 586px;
+  height: 123px;
+}
+.quick-guides1 {
+  top: 4107px;
+  left: 131px;
+  font-size: var(--font-size-109xl);
+  color: var(--color-black);
+  width: 1470px;
+  height: 186px;
+}
+.frame-child65 {
+  position: absolute;
+  top: 4417px;
+  left: 550px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-midnightblue-100);
+  width: 1897px;
+  height: 612px;
+}
+.mutual-fund-starter1 {
+  position: absolute;
+  top: 4490px;
+  left: 568.8px;
+  font-size: var(--font-size-109xl);
+  display: inline-block;
+  width: 1835.8px;
+  height: 106px;
+  transform: rotate(0.4deg);
+  transform-origin: 0 0;
+}
+.we-have-everything1 {
+  position: absolute;
+  top: 4691px;
+  left: 886px;
+  font-size: var(--font-size-77xl);
+  display: inline-block;
+  width: 1283px;
+  height: 165px;
+}
+.frame-child66 {
+  position: absolute;
+  top: 5208px;
+  left: 568px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-midnightblue-100);
+  width: 1920px;
+  height: 625px;
+}
+.begginer-guide1 {
+  position: absolute;
+  top: 5319px;
+  left: 929px;
+  font-size: var(--font-size-109xl);
+  display: inline-block;
+  width: 1128px;
+  height: 120px;
+}
+.discover-the-fundamentals-container1 {
+  position: absolute;
+  top: 5521px;
+  left: 602px;
+  font-size: var(--font-size-77xl);
+}
+.frame-child67 {
+  position: absolute;
+  top: 5992px;
+  left: 584px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-midnightblue-200);
+  width: 1881px;
+  height: 578px;
+}
+.accelerate-investment-knowledg1,
+.video-tutorials1 {
+  position: absolute;
+  top: 5983px;
+  left: 978px;
+  font-size: var(--font-size-109xl);
+  display: inline-block;
+  width: 1282px;
+  height: 183px;
+}
+.accelerate-investment-knowledg1 {
+  top: 6166px;
+  left: 759px;
+  font-size: var(--font-size-77xl);
+  width: 1602px;
+  height: 217px;
+}
+.frame-child68 {
+  position: absolute;
+  top: 6796px;
+  left: 172px;
+  width: 2734px;
+  height: 8px;
+  object-fit: contain;
+}
+.blog1 {
+  font-family: var(--font-abyssinica-sil);
+}
+.inspire-blog1,
+.what-you-see1,
+.why-the-rise1 {
+  position: absolute;
+  font-size: var(--font-size-77xl);
+  color: var(--color-black);
+  display: inline-block;
+}
+.inspire-blog1 {
+  top: 6796px;
+  left: 55px;
+  width: 1253px;
+  height: 146px;
+  font-family: var(--font-adlam-display);
+}
+.what-you-see1,
+.why-the-rise1 {
+  top: 7017px;
+  left: 388px;
+  width: 1452px;
+  height: 283px;
+}
+.what-you-see1 {
+  top: 7404px;
+  width: 1490px;
+  height: 270px;
+}
+.frame-child69 {
+  position: absolute;
+  top: 7332px;
+  left: 322px;
+  width: 1469px;
+  height: 4px;
+  object-fit: contain;
+}
+.frame-child70 {
+  position: absolute;
+  top: 7748.5px;
+  left: 331.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1403px;
+  height: 1px;
+}
+.appeal-of-soverign1 {
+  position: absolute;
+  top: 7824px;
+  left: 396px;
+  font-size: var(--font-size-77xl);
+  color: var(--color-black);
+  display: inline-block;
+  width: 1253px;
+  height: 300px;
+}
+.frame-child71 {
+  position: absolute;
+  top: 8030px;
+  left: 316px;
+  width: 1390px;
+  height: 5px;
+  object-fit: contain;
+}
+.frame-child72 {
+  position: absolute;
+  top: 8103px;
+  left: 525px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-deepskyblue-100);
+  width: 504px;
+  height: 170px;
+}
+.go-to-blog1 {
+  position: absolute;
+  top: 8156px;
+  left: 590px;
+  font-size: var(--font-size-45xl);
+  display: inline-block;
+  width: 543px;
+  height: 145px;
+}
+.any-questions1,
+.give-us-a1 {
+  position: absolute;
+  font-size: var(--font-size-77xl);
+  color: var(--color-black);
+  display: inline-block;
+}
+.any-questions1 {
+  top: 8644px;
+  left: 806px;
+  font-family: var(--font-adlam-display);
+  width: 1589px;
+  height: 127px;
+}
+.give-us-a1 {
+  top: 8971px;
+  left: 506px;
+  white-space: pre-wrap;
+  text-align: center;
+  width: 2139px;
+  height: 254px;
+}
+.frame-child73 {
+  position: absolute;
+  top: 9466px;
+  left: 1160px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-forestgreen);
+  width: 882px;
+  height: 150px;
+}
+.chat-on-whatsapp1 {
+  position: absolute;
+  top: 9503px;
+  left: 1332px;
+  display: inline-block;
+  width: 812px;
+  height: 75px;
+}
+.frame-child74 {
+  position: absolute;
+  top: 8368.5px;
+  left: 171.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 2797px;
+  height: 1px;
+}
+.frame-child75,
+.frame-child76,
+.frame-child77 {
+  position: absolute;
+  top: 140.5px;
+  left: 707.5px;
+  border-right: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1px;
+  height: 156px;
+}
+.frame-child76,
+.frame-child77 {
+  top: 147.5px;
+  left: 1128.5px;
+  height: 167px;
+}
+.frame-child77 {
+  top: 141.5px;
+  left: 1469.5px;
+  height: 173px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 2487px;
+  left: -7756px;
+  background-color: var(--color-white);
+  width: 3289px;
+  height: 9781px;
+  overflow: hidden;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-abyssinica-sil);
+}
+.welcome-srija {
+  position: absolute;
+  top: 462px;
+  left: 71px;
+  font-size: 75px;
+  color: var(--color-deepskyblue-100);
+  display: inline-block;
+  width: 1428px;
+  height: 183px;
+}
+.desktop-3-child8,
+.desktop-3-child9 {
+  position: absolute;
+  top: 634.5px;
+  left: 465.5px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 416px;
+}
+.desktop-3-child9 {
+  left: 936.5px;
+}
+.i-want-to1 {
+  top: 682px;
+  left: 534px;
+  font-size: var(--font-size-21xl);
+  font-weight: 800;
+  display: inline-block;
+  width: 296px;
+  height: 132px;
+}
+.dont-know-where,
+.explore-our-tools,
+.i-want-to1 {
+  position: absolute;
+  color: var(--color-black);
+}
+.explore-our-tools {
+  top: 814px;
+  left: 510px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 427px;
+  height: 201px;
+}
+.dont-know-where {
+  top: 1156px;
+  left: 43px;
+  font-size: 70px;
+}
+.desktop-3-child10 {
+  position: absolute;
+  top: 1385px;
+  left: 159px;
+  background-color: var(--color-steelblue-300);
+  width: 317px;
+  height: 286px;
+}
+.invest-in-our,
+.invest-to-save {
+  position: absolute;
+  top: 1402px;
+  left: 171px;
+  display: inline-block;
+  width: 509px;
+  height: 100px;
+}
+.invest-in-our {
+  top: 1463px;
+  width: 266px;
+  height: 102px;
+}
+.desktop-3-child11 {
+  position: absolute;
+  top: 1382px;
+  left: 590px;
+  background-color: var(--color-steelblue-300);
+  width: 317px;
+  height: 286px;
+}
+.earn-higher-returns,
+.setup-smart-save {
+  position: absolute;
+  top: 1396px;
+  left: 597px;
+  display: inline-block;
+  width: 409px;
+  height: 70px;
+}
+.earn-higher-returns {
+  top: 1464px;
+  width: 290px;
+  height: 159px;
+}
+.desktop-3-child12 {
+  position: absolute;
+  top: 1382px;
+  left: 1021px;
+  background-color: var(--color-steelblue-300);
+  width: 317px;
+  height: 286px;
+}
+.see-the-best,
+.top-perfomance-funds {
+  position: absolute;
+  left: 1038px;
+  display: inline-block;
+}
+.top-perfomance-funds {
+  top: 1402px;
+  font-size: 26px;
+  width: 333px;
+  height: 43px;
+}
+.see-the-best {
+  top: 1464px;
+  width: 241px;
+  height: 116px;
+}
+.desktop-3-child13 {
+  position: absolute;
+  top: 1818px;
+  left: 77px;
+  border-radius: 40px;
+  width: 1300px;
+  height: 420px;
+}
+.desktop-3-child14,
+.desktop-3-child15,
+.desktop-3-child16,
+.desktop-3-child17 {
+  position: absolute;
+  top: 2130px;
+  left: 155px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-skyblue);
+  width: 250px;
+  height: 250px;
+}
+.desktop-3-child15,
+.desktop-3-child16,
+.desktop-3-child17 {
+  left: 459px;
+}
+.desktop-3-child16,
+.desktop-3-child17 {
+  left: 749px;
+}
+.desktop-3-child17 {
+  left: 1080px;
+}
+.a-one-stop {
+  position: absolute;
+  top: 2162px;
+  left: 1069px;
+  color: var(--color-black);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 269px;
+  height: 170px;
+}
+.markets-can-fluctuate {
+  top: 2212px;
+  left: 184px;
+  width: 287px;
+}
+.funds-hand-picked-for,
+.invest-in-india,
+.markets-can-fluctuate {
+  position: absolute;
+  font-size: var(--font-size-16xl);
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+}
+.funds-hand-picked-for {
+  top: 2162px;
+  left: 492px;
+  white-space: pre-wrap;
+  width: 232px;
+}
+.invest-in-india {
+  top: 2196px;
+  left: 724px;
+  text-align: center;
+  justify-content: center;
+  width: 306px;
+}
+.frequently-asked-questions {
+  margin: 0;
+}
+.frequently-asked-questions-container1 {
+  width: 100%;
+}
+.div,
+.div1,
+.div2,
+.frequently-asked-questions-container {
+  position: absolute;
+  font-size: var(--font-size-45xl);
+  display: flex;
+  align-items: center;
+}
+.frequently-asked-questions-container {
+  top: 2633px;
+  left: 23px;
+  font-weight: 800;
+  color: var(--color-black);
+  width: 1523px;
+  height: 119px;
+}
+.div,
+.div1,
+.div2 {
+  top: 2752px;
+  left: 1162px;
+  color: var(--color-deepskyblue-200);
+  width: 99px;
+  height: 79px;
+}
+.div1,
+.div2 {
+  top: 2897px;
+}
+.div2 {
+  top: 3042px;
+  left: 1170px;
+}
+.get-inspired-with-container {
+  position: absolute;
+  top: 1894px;
+  left: 154px;
+  font-size: var(--font-size-46xl);
+}
+.desktop-3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 3246px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
